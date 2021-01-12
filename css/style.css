@@ -1,0 +1,7 @@
+#navbar.nav-flex #nav-belt .nav-right #nav-tools #nav-cart #nav-cart-count-container #nav-cart-count {
+    position: absolute;
+    left: 13px;
+    right: auto;
+    top: 8px;
+    -moz-box-pack: center;
+    justify-content: center;
